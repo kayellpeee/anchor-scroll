@@ -1,0 +1,33 @@
+:root {
+  padding: 3em;
+  font: .9em/2 "helvetica neue", helvetica, arial, sans-serif;
+  background: #fafafa;
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  text-align: center;
+  background: #fff;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+nav a {
+  display: inline-block;
+  padding: 1.2em .8em;
+  color: blue;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+section {
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 3em 0;
+}
+
+section + section {
+  border-top: 1px solid #ddd;
+}
