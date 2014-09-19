@@ -2,7 +2,7 @@
 
 Simple 0.5KB plugin for animating anchor links. [View demo](http://playground.deaxon.com/js/anchor-scrolling-library/).
 
-![demo gif](http://imgur.com/xEN28yj)
+![](http://imgur.com/xEN28yj.gif)
 
 ## Usage
 
