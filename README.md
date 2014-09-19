@@ -16,3 +16,6 @@ Simple 0.5KB plugin for animating anchor links. [View demo](http://playground.de
 
 <script src=scroll.js></script>
 ```
+## Developers
+To contribute, fork the repo and add any code to scroll.js
+Test your changes by opening index.html
