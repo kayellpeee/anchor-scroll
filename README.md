@@ -2,6 +2,8 @@
 
 Simple 0.5KB plugin for animating anchor links. [View demo](http://playground.deaxon.com/js/anchor-scrolling-library/).
 
+![demo gif](http://imgur.com/xEN28yj)
+
 ## Usage
 
 1. Insert scroll.js anywhere on your page.
